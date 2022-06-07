@@ -1,4 +1,4 @@
-# versionControl-test
+# versionControl Testine
 - clone .. git clone HTTPS
 - git branch=> sees the branches and which one r u on
 - git branch -c {newBranchName}
